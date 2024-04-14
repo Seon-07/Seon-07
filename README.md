@@ -1,6 +1,6 @@
 <div align = center>
 Seon Ji Hwan's GitHub 😃<br><br>
-👉 blog : https://seon07.tistory.com
+👉 blog : none
 </div>
 <hr>
 <div align = center><h1>🧩 STACKS</h1></div>
