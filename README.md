@@ -19,7 +19,12 @@ Seon Ji Hwan's GitHub 😃<br><br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  
+<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+  <br>
+<img src="https://img.shields.io/badge/apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+<img src="https://img.shields.io/badge/mybatis-463D56?style=for-the-badge&logo=mybatis&logoColor=white">
+<img src="https://img.shields.io/badge/jpa-4E1F29?style=for-the-badge&logo=jpa&logoColor=white">
 </div>
 <hr>
 
