@@ -37,13 +37,20 @@ Java 기반의 백엔드를 중심으로 프론트엔드, 보안, 네트워크, 
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white)
 
 ### 🔹 Etc
-![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?logo=junit5&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101.svg?logo=websocket&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36.svg?logo=apachemaven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36.svg?logo=apachemaven&logoColor=white) <br>
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?logo=junit5&logoColor=white)
+![Spring Test](https://img.shields.io/badge/Spring_Test-6DB33F?logo=spring&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-8D6CAB?logo=java&logoColor=white) <br>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/Subversion-809CC9?logo=apache-subversion&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101.svg?logo=websocket&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) <br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=white)
+
 
 <br>
 
